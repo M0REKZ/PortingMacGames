@@ -33,7 +33,7 @@ You can get the unity version you want from the official unity webpage, you dont
 
 - Download correspondent Unity Version (it may be a pkg file or a dmg)
 
-- For pkg files you can install it.. or extract the contents with terminal or The Unarchiver App, in case that there are other pkg files inside, simply Right Click "Unity.pkg" and "Show Package Contents", then search the "Payload" File and change the name to "Payload.zip", now you can access to Unity app without installing it.
+- For pkg files you can install it.. or extract the contents with terminal or [The Unarchiver](https://apps.apple.com/us/app/the-unarchiver/id425424353?mt=12) (or just another software for that), in case that there are other pkg files inside, simply Right Click "Unity.pkg" and "Show Package Contents", then search the "Payload" File and change the name to "Payload.zip", now you can access to Unity app without installing it.
 
 - For dmg simply drag Unity.app to somewhere on your computer, but if it is a pkg file, drag and drop it, and see the step above.
 
