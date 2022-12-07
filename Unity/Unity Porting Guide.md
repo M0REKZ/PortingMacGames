@@ -4,7 +4,7 @@ NOTE: THIS GUIDE IS NOT FOR GAME PIRACY, ONLY USE IT FOR GAMES THAT YOU LEGALLY 
 
 Some very old Unity games on Steam are 32-Bits only, however, since Unity 4.2, they started supporting 64-Bits apps, and these games that are from Unity 4.2 and above were not made with 64-Bits architecture, so let's do it on our own.
 
-(This guide is just to replace 32bits UnityPLayer with a 64bits one)
+(This guide is just to replace 32bits UnityPlayer with a 64bits one)
 
 
 
@@ -29,7 +29,7 @@ Well, now you got the Unity version that the game needs... now you need to downl
 
 ##Obtaining UnityPlayer##
 
-You can get the unity version you want from the official unity webpage, you dont need a license to download and unpack it (only for using Unity app), however, it looks like they updated some old unity packages to have a 2020 UnityPlayer instead of the needed, and it wont work if we want to port a very old game, so, its recommended to search the file you need on the archive.org wayback machine.
+You can get the unity version you want from the official unity webpage, you dont need a license to download and unpack it (only for using Unity app), however, it looks like they updated some old unity packages to have a 2020 UnityPlayer instead of the needed, and it wont work if we want to port a very old game, so, its recommended to search the file you need on the archive.org wayback machine. (some working links on [This Page](https://github.com/M0REKZ/PortingMacGames/blob/Principal/Unity/Working%20Dowload%20Links.md))
 
 - Download correspondent Unity Version (it may be a pkg file or a dmg)
 
