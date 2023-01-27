@@ -1,7 +1,7 @@
 
 NOTE: THIS GUIDE IS NOT FOR GAME PIRACY, ONLY USE IT FOR GAMES THAT YOU LEGALLY OWN.
 
-Also this guide was based on a (now deleted) guide to make work mac and windows unity games on linux (what is technically possbile with mac too, but only with few games).
+Also this guide was based on a (now deleted) guide to make work mac and windows unity games on linux (what is technically possible with mac too, but only with few games).
 
 ---------------------------------
 
