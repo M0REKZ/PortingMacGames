@@ -1,8 +1,12 @@
 
 NOTE: THIS GUIDE IS NOT FOR GAME PIRACY, ONLY USE IT FOR GAMES THAT YOU LEGALLY OWN.
 
+Also this guide was based on a (now deleted) guide to make work mac and windows unity games on linux (what is technically possbile with mac too, but only with few games).
 
-Some very old Unity games on Steam are 32-Bits only, however, since Unity 4.2, they started supporting 64-Bits apps, and these games that are from Unity 4.2 and above were not made with 64-Bits architecture, so let's do it on our own.
+---------------------------------
+
+
+Some very old Unity games on Steam are 32-Bits only, however, since Unity 4.2, they started supporting 64-Bits apps, and these games that are from Unity 4.2 and above were not made with 64-Bits architecture (maybe because developer ignorance, laziness, or problems while converting to 64-bits), so let's do it on our own.
 
 (This guide is just to replace 32bits UnityPlayer with a 64bits one)
 
@@ -60,3 +64,5 @@ Go back and go to Frameworks, copy the files that you got before.
 Open terminal, drag "UnityPlayer" in the window, add a space, write "-logfile", add another space, and write "~/Desktop/gamelogfile.txt", run this command everytime you want to run UnityPlayer, so if the app crash/bugs, you can see what to do (sometimes some extra libraries is needed, you can found them inside Unity app, and search on internet for the third-party ones)
 
 If you did all in the right way (and the game is really compatible), Congratulations!!, The game now are running on a modern mac!!, you may like to replace the original game binary inside "MacOS" folder with the UnityPlayer binary and change the name.
+
+
