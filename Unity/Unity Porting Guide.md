@@ -1,4 +1,8 @@
 
+GUIDE MOVED TO https://pluskz.blogspot.com/2022/12/unity-32-to-64.html
+
+---------------------------------
+
 NOTE: THIS GUIDE IS NOT FOR GAME PIRACY, ONLY USE IT FOR GAMES THAT YOU LEGALLY OWN.
 
 Also this guide was based on a (now deleted) guide to make work mac and windows unity games on linux (what is technically possible with some windows and linux games on mac too, but only with few games).
